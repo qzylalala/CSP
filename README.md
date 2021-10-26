@@ -1,7 +1,7 @@
 # 历年 CCF-CSP 真题代码
 持续更新历年 CCF-CSP 真题题解
 
-[算法模板](https://github.com/qzylalala/Algorithm-template)
+可以下载 `算法模板.pdf` ，一般考场是允许待板子的，可以打印下来带着，主要是一些经典题型和模板
 
 来 [官网](https://csp.ccf.org.cn/csp/index.action) 刷题
 
